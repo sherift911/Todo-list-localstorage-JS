@@ -1,7 +1,8 @@
 # 📝 To-Do List App (JavaScript)
 
 A simple and interactive To-Do List application built using pure JavaScript.
-👉 [View Project](https://sherift911.github.io/Template-3-Landing-Page--HTML--CSS/)
+
+👉 [View Project](https://sherift911.github.io/Todo-list-localstorage-JS/)
 ![Todo-list-localstorage-JS](images/site.png)
 
 ## 🚀 Features
