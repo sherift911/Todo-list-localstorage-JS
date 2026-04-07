@@ -30,3 +30,21 @@ A simple and interactive To-Do List application built using pure JavaScript.
   index.html
   style.css
   main.js
+
+## ▶️ Usage
+1. Enter a task in the input field
+2. Click "Add Task"
+3. Click "Delete" to remove a task
+4. Click "Delete All" to clear all tasks
+
+## 💾 Local Storage
+All tasks are saved in browser local storage, so they remain after refreshing the page.
+
+## 📌 Future Improvements
+- Mark task as completed
+- Edit task
+- Add filters (Completed / Active)
+- Improve UI/UX
+
+## 👨‍💻 Author
+Sherif Khater
