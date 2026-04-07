@@ -1,0 +1,82 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    width: 500px;
+    margin: 20px auto;
+}
+.form{
+    background-color: #eee;
+    border-radius: 6px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tasks{
+    background-color: #eee; 
+    margin-top: 20px;
+    border-radius: 6px;
+    padding: 20px;   
+}
+.add{
+    background-color: red;
+    color: white;
+    padding: 7px;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 6px;
+    margin-left: 40px;
+}
+.input{
+    cursor: pointer;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 20px;
+}
+.tasks .task{
+    background-color: white;
+    padding: 10px;
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: 0.3s;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    opacity: 0.8;
+}
+.tasks .task:hover{
+    opacity: 1;
+    cursor: pointer;
+    background-color: #f7f7f7;
+}
+.task{
+    font-weight: bold;
+    font-size: 20px;
+}
+.span{
+    background-color: red;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    padding: 2px 9px;
+    border-radius: 6px;
+}
+.delete-all{
+    display: flex;
+    justify-content: end;
+    background-color: white; 
+    margin-top: 20px;
+    border-radius: 6px;
+    padding: 4px;   
+}
+.deletee{
+    background-color: red;
+    color: white;
+}
+.deletee:hover{
+    cursor: pointer;
+}
+
